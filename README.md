@@ -1,5 +1,7 @@
 # FinTech-repository
 
+![markdown-image](markdown-\20201231_024547.jpg)
+
 > "...to boldly go where no one has gone before."
 
 ### Directory 
